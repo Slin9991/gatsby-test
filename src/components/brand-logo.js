@@ -4,9 +4,8 @@ export default function GatsbyContentfulLogo() {
   return (
     
     <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
-    width="82"
-    height="24"
-    viewBox="0 0 82 24" preserveAspectRatio="xMidYMid meet">
+ width="58.000000pt" height="24.000000pt" viewBox="0 0 580.000000 240.000000"
+ preserveAspectRatio="xMidYMid meet">
 
 <g transform="translate(0.000000,240.000000) scale(0.100000,-0.100000)"
 fill="#000000" stroke="none">
